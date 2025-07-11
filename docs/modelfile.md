@@ -128,6 +128,81 @@ Currently supported model architectures:
   * Mistral (including Mistral 1, Mistral 2, and Mixtral)
   * Gemma (including Gemma 1 and Gemma 2)
   * Phi3
+  * LLaMA
+  * LLaMA 2
+  * LLaMA 3
+  * Mistral 7B
+  * Mixtral MoE
+  * DBRX
+  * Falcon
+  * Chinese LLaMA / Alpaca
+  * Chinese LLaMA-2 / Alpaca-2
+  * Vigogne (French)
+  * BERT
+  * Koala
+  * Baichuan 1 & 2
+  * Aquila 1 & 2
+  * Starcoder models
+  * Refact
+  * MPT
+  * Bloom
+  * Yi models
+  * StableLM models
+  * Deepseek models
+  * Qwen models
+  * PLaMo-13B
+  * Phi models
+  * PhiMoE
+  * GPT-2
+  * Orion 14B
+  * InternLM2
+  * CodeShell
+  * Mamba
+  * Grok-1
+  * Xverse
+  * Command-R models
+  * SEA-LION
+  * GritLM-7B
+  * GritLM-8x7B
+  * OLMo
+  * OLMo 2
+  * OLMoE
+  * Granite models
+  * GPT-NeoX
+  * Pythia
+  * Snowflake-Arctic MoE
+  * Smaug
+  * Poro 34B
+  * Bitnet b1.58 models
+  * Flan T5
+  * Open Elm models
+  * ChatGLM3-6b
+  * ChatGLM4-9b
+  * GLMEdge-1.5b
+  * GLMEdge-4b
+  * GLM-4-0414
+  * SmolLM
+  * EXAONE-3.0-7.8B-Instruct
+  * FalconMamba Models
+  * Jais
+  * Bielik-11B-v2.3
+  * RWKV-6
+  * QRWKV-6
+  * GigaChat-20B-A3B
+  * Trillion-7B-preview
+  * Ling models
+  * LLaVA 1.5 models
+  * LLaVA 1.6 models
+  * BakLLaVA
+  * Obsidian
+  * ShareGPT4V
+  * MobileVLM 1.7B/3B models
+  * Yi-VL
+  * Mini CPM
+  * Moondream
+  * Bunny
+  * GLM-EDGE
+  * Qwen2-VL
 
 #### Build from a GGUF file
 
