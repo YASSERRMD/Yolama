@@ -598,7 +598,7 @@ See the [API documentation](./docs/api.md) for all endpoints.
 
 ### Supported backends
 
-- [llama.cpp](https://github.com/ggerganov/llama.cpp) project founded by Georgi Gerganov.
+- [yas_llama.cpp](https://github.com/YASSERRMD/yas_llama.cpp), a fork of llama.cpp maintained by Mohamed Yasser.
 
 ### Observability
 - [Opik](https://www.comet.com/docs/opik/cookbook/ollama) is an open-source platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. Opik supports native intergration to Ollama.
