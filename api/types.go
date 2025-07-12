@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ollama/ollama/envconfig"
-	"github.com/ollama/ollama/types/model"
+	"github.com/YASSERRMD/Yolama/envconfig"
+	"github.com/YASSERRMD/Yolama/types/model"
 )
 
 // StatusError is an error with an HTTP status code and message.

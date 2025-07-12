@@ -15,9 +15,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ollama/ollama/server/internal/cache/blob"
-	"github.com/ollama/ollama/server/internal/client/ollama"
-	"github.com/ollama/ollama/server/internal/testutil"
+	"github.com/YASSERRMD/Yolama/server/internal/cache/blob"
+	"github.com/YASSERRMD/Yolama/server/internal/client/ollama"
+	"github.com/YASSERRMD/Yolama/server/internal/testutil"
 	"golang.org/x/tools/txtar"
 
 	_ "embed"

@@ -21,14 +21,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ollama/ollama/api"
-	"github.com/ollama/ollama/envconfig"
-	"github.com/ollama/ollama/fs/gguf"
-	"github.com/ollama/ollama/parser"
-	"github.com/ollama/ollama/template"
-	"github.com/ollama/ollama/thinking"
-	"github.com/ollama/ollama/types/model"
-	"github.com/ollama/ollama/version"
+	"github.com/YASSERRMD/Yolama/api"
+	"github.com/YASSERRMD/Yolama/envconfig"
+	"github.com/YASSERRMD/Yolama/fs/gguf"
+	"github.com/YASSERRMD/Yolama/parser"
+	"github.com/YASSERRMD/Yolama/template"
+	"github.com/YASSERRMD/Yolama/thinking"
+	"github.com/YASSERRMD/Yolama/types/model"
+	"github.com/YASSERRMD/Yolama/version"
 )
 
 var (

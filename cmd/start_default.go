@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/ollama/ollama/api"
+	"github.com/YASSERRMD/Yolama/api"
 )
 
 func startApp(ctx context.Context, client *api.Client) error {

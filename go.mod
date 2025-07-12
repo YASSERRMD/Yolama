@@ -1,4 +1,4 @@
-module github.com/ollama/ollama
+module github.com/YASSERRMD/Yolama
 
 go 1.24.0
 

@@ -23,13 +23,13 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/ollama/ollama/format"
-	"github.com/ollama/ollama/fs"
-	fsggml "github.com/ollama/ollama/fs/ggml"
-	"github.com/ollama/ollama/logutil"
-	"github.com/ollama/ollama/ml"
-	ggml "github.com/ollama/ollama/ml/backend/ggml/ggml/src"
-	"github.com/ollama/ollama/ml/nn/rope"
+	"github.com/YASSERRMD/Yolama/format"
+	"github.com/YASSERRMD/Yolama/fs"
+	fsggml "github.com/YASSERRMD/Yolama/fs/ggml"
+	"github.com/YASSERRMD/Yolama/logutil"
+	"github.com/YASSERRMD/Yolama/ml"
+	ggml "github.com/YASSERRMD/Yolama/ml/backend/ggml/ggml/src"
+	"github.com/YASSERRMD/Yolama/ml/nn/rope"
 	"golang.org/x/sync/errgroup"
 )
 
