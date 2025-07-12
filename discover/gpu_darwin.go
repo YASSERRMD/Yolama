@@ -14,7 +14,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/ollama/ollama/format"
+	"github.com/YASSERRMD/Yolama/format"
 )
 
 const (

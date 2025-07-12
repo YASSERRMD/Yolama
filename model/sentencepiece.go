@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ollama/ollama/logutil"
+	"github.com/YASSERRMD/Yolama/logutil"
 )
 
 const spmWhitespaceSep = "▁"

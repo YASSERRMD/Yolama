@@ -7,7 +7,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/ollama/ollama/types/model"
+	"github.com/YASSERRMD/Yolama/types/model"
 )
 
 func createManifest(t *testing.T, path, name string) {

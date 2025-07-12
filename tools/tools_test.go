@@ -5,7 +5,7 @@ import (
 	"text/template"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/ollama/ollama/api"
+	"github.com/YASSERRMD/Yolama/api"
 )
 
 func TestParser(t *testing.T) {

@@ -7,8 +7,8 @@ import (
 	"math"
 	"slices"
 
-	"github.com/ollama/ollama/ml"
-	"github.com/ollama/ollama/model/input"
+	"github.com/YASSERRMD/Yolama/ml"
+	"github.com/YASSERRMD/Yolama/model/input"
 )
 
 type shiftFn func(ctx ml.Context, layer int, key, shift ml.Tensor) (ml.Tensor, error)

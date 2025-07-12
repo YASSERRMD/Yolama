@@ -15,7 +15,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ollama/ollama/api"
+	"github.com/YASSERRMD/Yolama/api"
 )
 
 func TestMaxQueue(t *testing.T) {

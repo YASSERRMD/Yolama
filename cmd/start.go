@@ -7,7 +7,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ollama/ollama/api"
+	"github.com/YASSERRMD/Yolama/api"
 )
 
 func waitForServer(ctx context.Context, client *api.Client) error {

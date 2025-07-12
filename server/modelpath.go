@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ollama/ollama/envconfig"
-	"github.com/ollama/ollama/types/model"
+	"github.com/YASSERRMD/Yolama/envconfig"
+	"github.com/YASSERRMD/Yolama/types/model"
 )
 
 type ModelPath struct {

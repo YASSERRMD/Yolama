@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ollama/ollama/llama"
+	"github.com/YASSERRMD/Yolama/llama"
 )
 
 const imageCacheSize = 4

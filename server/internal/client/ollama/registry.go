@@ -36,8 +36,8 @@ import (
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/ollama/ollama/server/internal/cache/blob"
-	"github.com/ollama/ollama/server/internal/internal/names"
+	"github.com/YASSERRMD/Yolama/server/internal/cache/blob"
+	"github.com/YASSERRMD/Yolama/server/internal/internal/names"
 
 	_ "embed"
 )

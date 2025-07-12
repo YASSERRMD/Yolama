@@ -6,12 +6,12 @@ import (
 	"math"
 	"slices"
 
-	"github.com/ollama/ollama/fs"
-	"github.com/ollama/ollama/kvcache"
-	"github.com/ollama/ollama/ml"
-	"github.com/ollama/ollama/ml/nn"
-	"github.com/ollama/ollama/model"
-	"github.com/ollama/ollama/model/input"
+	"github.com/YASSERRMD/Yolama/fs"
+	"github.com/YASSERRMD/Yolama/kvcache"
+	"github.com/YASSERRMD/Yolama/ml"
+	"github.com/YASSERRMD/Yolama/ml/nn"
+	"github.com/YASSERRMD/Yolama/model"
+	"github.com/YASSERRMD/Yolama/model/input"
 )
 
 type Model struct {

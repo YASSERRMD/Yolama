@@ -22,9 +22,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ollama/ollama/api"
-	"github.com/ollama/ollama/app/lifecycle"
-	"github.com/ollama/ollama/format"
+	"github.com/YASSERRMD/Yolama/api"
+	"github.com/YASSERRMD/Yolama/app/lifecycle"
+	"github.com/YASSERRMD/Yolama/format"
 	"github.com/stretchr/testify/require"
 )
 

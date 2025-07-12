@@ -19,14 +19,14 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/ollama/ollama/api"
-	"github.com/ollama/ollama/convert"
-	"github.com/ollama/ollama/envconfig"
-	"github.com/ollama/ollama/format"
-	"github.com/ollama/ollama/fs/ggml"
-	"github.com/ollama/ollama/template"
-	"github.com/ollama/ollama/types/errtypes"
-	"github.com/ollama/ollama/types/model"
+	"github.com/YASSERRMD/Yolama/api"
+	"github.com/YASSERRMD/Yolama/convert"
+	"github.com/YASSERRMD/Yolama/envconfig"
+	"github.com/YASSERRMD/Yolama/format"
+	"github.com/YASSERRMD/Yolama/fs/ggml"
+	"github.com/YASSERRMD/Yolama/template"
+	"github.com/YASSERRMD/Yolama/types/errtypes"
+	"github.com/YASSERRMD/Yolama/types/model"
 )
 
 var (

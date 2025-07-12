@@ -9,7 +9,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/ollama/ollama/fs/util/bufioutil"
+	"github.com/YASSERRMD/Yolama/fs/util/bufioutil"
 )
 
 type GGML struct {
@@ -57,7 +57,7 @@ func (kv KV) EmbeddingLength() uint64 {
 func (kv KV) HeadCountMax() uint64 {
 	// TODO(drifkin): using the max value can cause an overestimation. In the
 	// future if array values become more popular, we can adapt the more invasive
-	// <https://github.com/ollama/ollama/pull/10225>
+	// <https://github.com/YASSERRMD/Yolama/pull/10225>
 	return uint64(kv.UintOrMaxArrayValue("attention.head_count", 1))
 }
 

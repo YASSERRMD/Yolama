@@ -8,7 +8,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/ollama/ollama/fs/ggml"
+	"github.com/YASSERRMD/Yolama/fs/ggml"
 )
 
 type bertModel struct {
